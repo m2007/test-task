@@ -1,0 +1,357 @@
+{
+    "districtTables" : [ {
+      "name" : "Балашиха",
+      "day" : 6.0,
+      "week" : 7.0,
+      "month" : 6.0,
+      "distSid" : 31
+    }, {
+      "name" : "Богородский",
+      "day" : 8.0,
+      "week" : 10.0,
+      "month" : 10.0,
+      "distSid" : 10
+    }, {
+      "name" : "Бронницы",
+      "day" : 15.0,
+      "week" : 15.0,
+      "month" : 14.0,
+      "distSid" : 55
+    }, {
+      "name" : "Власиха",
+      "day" : 47.0,
+      "week" : 47.0,
+      "month" : 47.0,
+      "distSid" : 51
+    }, {
+      "name" : "Волоколамский",
+      "day" : 46.0,
+      "week" : 45.0,
+      "month" : 46.0,
+      "distSid" : 5
+    }, {
+      "name" : "Воскресенск",
+      "day" : 34.0,
+      "week" : 33.0,
+      "month" : 31.0,
+      "distSid" : 47
+    }, {
+      "name" : "Восход",
+      "day" : 45.0,
+      "week" : 39.0,
+      "month" : 45.0,
+      "distSid" : 50
+    }, {
+      "name" : "Дзержинский",
+      "day" : 59.0,
+      "week" : 59.0,
+      "month" : 59.0,
+      "distSid" : 56
+    }, {
+      "name" : "Дмитровский",
+      "day" : 14.0,
+      "week" : 14.0,
+      "month" : 15.0,
+      "distSid" : 4
+    }, {
+      "name" : "Долгопрудный",
+      "day" : 29.0,
+      "week" : 40.0,
+      "month" : 34.0,
+      "distSid" : 53
+    }, {
+      "name" : "Домодедово",
+      "day" : 7.0,
+      "week" : 6.0,
+      "month" : 7.0,
+      "distSid" : 23
+    }, {
+      "name" : "Дубна",
+      "day" : 57.0,
+      "week" : 57.0,
+      "month" : 56.0,
+      "distSid" : 40
+    }, {
+      "name" : "Егорьевск",
+      "day" : 50.0,
+      "week" : 48.0,
+      "month" : 50.0,
+      "distSid" : 38
+    }, {
+      "name" : "Жуковский",
+      "day" : 30.0,
+      "week" : 34.0,
+      "month" : 29.0,
+      "distSid" : 45
+    }, {
+      "name" : "Зарайск",
+      "day" : 51.0,
+      "week" : 51.0,
+      "month" : 52.0,
+      "distSid" : 35
+    }, {
+      "name" : "Ивантеевка",
+      "day" : 48.0,
+      "week" : 50.0,
+      "month" : 48.0,
+      "distSid" : 57
+    }, {
+      "name" : "Истра",
+      "day" : 24.0,
+      "week" : 22.0,
+      "month" : 24.0,
+      "distSid" : 26
+    }, {
+      "name" : "Кашира",
+      "day" : 41.0,
+      "week" : 41.0,
+      "month" : 36.0,
+      "distSid" : 34
+    }, {
+      "name" : "Клин",
+      "day" : 39.0,
+      "week" : 44.0,
+      "month" : 41.0,
+      "distSid" : 25
+    }, {
+      "name" : "Коломенский",
+      "day" : 20.0,
+      "week" : 17.0,
+      "month" : 19.0,
+      "distSid" : 22
+    }, {
+      "name" : "Королёв",
+      "day" : 18.0,
+      "week" : 19.0,
+      "month" : 18.0,
+      "distSid" : 58
+    }, {
+      "name" : "Котельники",
+      "day" : 35.0,
+      "week" : 38.0,
+      "month" : 38.0,
+      "distSid" : 49
+    }, {
+      "name" : "Красноармейск",
+      "day" : 60.0,
+      "week" : 60.0,
+      "month" : 60.0,
+      "distSid" : 8
+    }, {
+      "name" : "Красногорск",
+      "day" : 12.0,
+      "week" : 12.0,
+      "month" : 12.0,
+      "distSid" : 19
+    }, {
+      "name" : "Ленинский",
+      "day" : 2.0,
+      "week" : 2.0,
+      "month" : 2.0,
+      "distSid" : 18
+    }, {
+      "name" : "Лобня",
+      "day" : 43.0,
+      "week" : 46.0,
+      "month" : 43.0,
+      "distSid" : 59
+    }, {
+      "name" : "Лосино-Петровский",
+      "day" : 42.0,
+      "week" : 36.0,
+      "month" : 37.0,
+      "distSid" : 41
+    }, {
+      "name" : "Лотошино",
+      "day" : 56.0,
+      "week" : 56.0,
+      "month" : 57.0,
+      "distSid" : 27
+    }, {
+      "name" : "Луховицы",
+      "day" : 27.0,
+      "week" : 24.0,
+      "month" : 22.0,
+      "distSid" : 37
+    }, {
+      "name" : "Люберцы",
+      "day" : 10.0,
+      "week" : 11.0,
+      "month" : 11.0,
+      "distSid" : 24
+    }, {
+      "name" : "Можайский",
+      "day" : 33.0,
+      "week" : 30.0,
+      "month" : 40.0,
+      "distSid" : 29
+    }, {
+      "name" : "Мытищи",
+      "day" : 3.0,
+      "week" : 4.0,
+      "month" : 5.0,
+      "distSid" : 3
+    }, {
+      "name" : "Наро-Фоминский",
+      "day" : 19.0,
+      "week" : 18.0,
+      "month" : 21.0,
+      "distSid" : 39
+    }, {
+      "name" : "Одинцовский",
+      "day" : 13.0,
+      "week" : 13.0,
+      "month" : 13.0,
+      "distSid" : 20
+    }, {
+      "name" : "Озёры",
+      "day" : 53.0,
+      "week" : 53.0,
+      "month" : 53.0,
+      "distSid" : 36
+    }, {
+      "name" : "Орехово-Зуевский",
+      "day" : 37.0,
+      "week" : 37.0,
+      "month" : 39.0,
+      "distSid" : 12
+    }, {
+      "name" : "Павловский Посад",
+      "day" : 21.0,
+      "week" : 25.0,
+      "month" : 23.0,
+      "distSid" : 11
+    }, {
+      "name" : "Подольск",
+      "day" : 5.0,
+      "week" : 3.0,
+      "month" : 3.0,
+      "distSid" : 17
+    }, {
+      "name" : "Протвино",
+      "day" : 54.0,
+      "week" : 55.0,
+      "month" : 55.0,
+      "distSid" : 52
+    }, {
+      "name" : "Пушкинский",
+      "day" : 4.0,
+      "week" : 5.0,
+      "month" : 4.0,
+      "distSid" : 7
+    }, {
+      "name" : "Пущино",
+      "day" : 58.0,
+      "week" : 58.0,
+      "month" : 58.0,
+      "distSid" : 32
+    }, {
+      "name" : "Раменский",
+      "day" : 11.0,
+      "week" : 9.0,
+      "month" : 9.0,
+      "distSid" : 14
+    }, {
+      "name" : "Реутов",
+      "day" : 1.0,
+      "week" : 1.0,
+      "month" : 1.0,
+      "distSid" : 30
+    }, {
+      "name" : "Рузский",
+      "day" : 23.0,
+      "week" : 21.0,
+      "month" : 27.0,
+      "distSid" : 6
+    }, {
+      "name" : "Сергиево-Посадский",
+      "day" : 17.0,
+      "week" : 16.0,
+      "month" : 16.0,
+      "distSid" : 1
+    }, {
+      "name" : "Серебряные Пруды",
+      "day" : 44.0,
+      "week" : 43.0,
+      "month" : 44.0,
+      "distSid" : 48
+    }, {
+      "name" : "Серпухов",
+      "day" : 36.0,
+      "week" : 32.0,
+      "month" : 35.0,
+      "distSid" : 33
+    }, {
+      "name" : "Солнечногорск",
+      "day" : 9.0,
+      "week" : 8.0,
+      "month" : 8.0,
+      "distSid" : 15
+    }, {
+      "name" : "Ступино",
+      "day" : 32.0,
+      "week" : 28.0,
+      "month" : 30.0,
+      "distSid" : 44
+    }, {
+      "name" : "Талдомский",
+      "day" : 49.0,
+      "week" : 49.0,
+      "month" : 49.0,
+      "distSid" : 2
+    }, {
+      "name" : "Фрязино",
+      "day" : 26.0,
+      "week" : 27.0,
+      "month" : 25.0,
+      "distSid" : 46
+    }, {
+      "name" : "Химки",
+      "day" : 28.0,
+      "week" : 31.0,
+      "month" : 26.0,
+      "distSid" : 61
+    }, {
+      "name" : "Черноголовка",
+      "day" : 38.0,
+      "week" : 29.0,
+      "month" : 32.0,
+      "distSid" : 43
+    }, {
+      "name" : "Чехов",
+      "day" : 25.0,
+      "week" : 23.0,
+      "month" : 20.0,
+      "distSid" : 16
+    }, {
+      "name" : "Шатура",
+      "day" : 55.0,
+      "week" : 54.0,
+      "month" : 54.0,
+      "distSid" : 13
+    }, {
+      "name" : "Шаховская",
+      "day" : 52.0,
+      "week" : 52.0,
+      "month" : 51.0,
+      "distSid" : 28
+    }, {
+      "name" : "Щёлково",
+      "day" : 16.0,
+      "week" : 20.0,
+      "month" : 17.0,
+      "distSid" : 9
+    }, {
+      "name" : "Электрогорск",
+      "day" : 31.0,
+      "week" : 35.0,
+      "month" : 33.0,
+      "distSid" : 62
+    }, {
+      "name" : "Электросталь",
+      "day" : 22.0,
+      "week" : 26.0,
+      "month" : 28.0,
+      "distSid" : 63
+    } ]
+}
